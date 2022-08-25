@@ -1,3 +1,3 @@
 # Data-Visualization-Workspace
 
-This repository will hold a collection of visualizations I make for practice
+This repository will eventually hold a collection of data visualizations I make for practice
