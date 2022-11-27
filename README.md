@@ -1,3 +1,3 @@
-# Data-Visualization-Workspace
+# Project Portfolio
 
-This repository will eventually hold a collection of data visualizations I make for practice
+This repository will hold a collection of projects I complete both in and out of class
